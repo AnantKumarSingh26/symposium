@@ -40,6 +40,7 @@ main {
     img{
         width: 100%;
         @include flex-layout(1rem);
+        right: auto;
     }
   }
 }
