@@ -35,4 +35,4 @@ We structured Symposium as a modular project where each team member took ownersh
 **Status:** Maintained 🛠
 
 ## 🌐 Live Demo
-Check out the live project here: [Insert Link to Symposium Here]
+Check out the live project here: [@Symposium](https://anantkumarsingh26.github.io/symposium/)
